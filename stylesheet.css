@@ -331,9 +331,12 @@ b human-resource {
 
 
 .cutomers{
-    margin-top:10%;
+    margin-top:3%;
     color:#999;
     line-height:15px;
+}
+.customers h2{
+    margin-top:5%;
 }
 button.more-features-btn {
     background-color: black;
