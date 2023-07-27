@@ -704,7 +704,11 @@ button.more-features-btn {
 }
 
 
-
+@media(max-width:321px){
+    nav{
+        width:360px;
+    }
+}
 @media(max-width:321px){
     .row_1 {
         padding-left:2%;
