@@ -582,7 +582,7 @@ button.more-features-btn {
 @media(max-width:680px){
     .col11,.col12{
         width:30%;
-        height:55%;
+        height:57%;
     }
 }
 
@@ -1269,6 +1269,9 @@ button.more-features-btn {
     }
     .image-container1, .image-container2{
       margin-left:0%;     
+    }
+    .image-container{
+        paddin-bottom:5%;
     }
     .im1{
         margin-left:-10%;
