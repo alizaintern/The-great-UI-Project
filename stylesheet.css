@@ -78,7 +78,7 @@ a.home,a.hover{
 .row_1 {
     display: flex;
     float: right;
-    width:100%;
+    width:100vw;
     padding-left: 20%;
     padding-top: 4%;
 }
@@ -707,7 +707,7 @@ button.more-features-btn {
 
 @media(max-width:321px){
     .row_1 {
-        padding-left:0;
+        padding-left:2%;
         margin-left: -10%;
         margin-top:-5%;
         height: 30px;
@@ -1164,13 +1164,14 @@ button.more-features-btn {
 @media screen and (max-width: 425px) and (min-width:321px){
     
     .row_1{
-        padding-left:1%;
+        padding-left:3%;
     }
     nav ul {
         display: none;
         
     }
     .row_1{
+        width:100vw;
         padding-left:10%;
     }
     .description {
