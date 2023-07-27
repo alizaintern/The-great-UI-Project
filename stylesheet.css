@@ -709,7 +709,7 @@ button.more-features-btn {
         width:360px;
     }
 }
-@media(max-width:321px){
+@media(max-width:426px){
     .row_1 {
         padding-left:2%;
         margin-left: -10%;
